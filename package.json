@@ -1,6 +1,6 @@
 {
     "name": "cordova-zipper-plugin",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Compress and decompress zip files in cordova",
     "cordova": {
       "id": "cordova-zipper-plugin",
