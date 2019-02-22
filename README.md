@@ -5,8 +5,8 @@ A Cordova plugin to unzip files in Android and iOS.
 
 ##Installation
 
-    cordova plugin add https://github.com/MobileChromeApps/zip.git
-
+    cordova plugin add cordova-zipper-plugin
+    
 ##Usage
 
     zip.unzip(<source zip>, <destination dir>, <callback>);

@@ -1,0 +1,40 @@
+{
+    "name": "cordova-zipper-plugin",
+    "version": "1.0.4",
+    "description": "Compress and decompress zip files in cordova",
+    "cordova": {
+      "id": "cordova-zipper-plugin",
+      "platforms": [
+        "android",
+        "ios"      
+      ]
+    },  
+    "license": "GPL-3.0",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/philsnook/cordova-zip-plugin.git"
+    },
+    "bugs": {
+      "url": "https://github.com/philsnook/cordova-zip-plugin/issues"
+    },
+    "homepage": "https://github.com/philsnook/cordova-zip-plugin#readme",
+    "keywords": [
+      "cordova",
+      "zip",
+      "compress",
+      "decompress",
+      "unzip",
+      "ecosystem:cordova",
+      "cordova-android",
+      "cordova-ios"
+    ],
+    "engines": {
+      "cordovaDependencies": {
+        "1.1.0": { 
+          "cordova" : ">=7.0.0",
+          "cordova-ios": ">=4.4.0"
+        }
+      }
+    }
+  }
+  
